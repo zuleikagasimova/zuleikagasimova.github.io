@@ -1,0 +1,32 @@
+{
+    "id": "CD9F9151",
+    "path": "~/Desktop/zuleikagasimova/conference.qmd",
+    "project_path": "conference.qmd",
+    "type": "quarto_markdown",
+    "hash": "3784050827",
+    "contents": "",
+    "dirty": false,
+    "created": 1782412056315.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,0",
+        "scrollLine": "0",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "73:0",
+        "docOutlineSize": "168"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1782504778,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1782504778619,
+    "read_only": false,
+    "read_only_alternatives": []
+}

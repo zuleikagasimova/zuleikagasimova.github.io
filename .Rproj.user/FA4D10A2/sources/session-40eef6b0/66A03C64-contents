@@ -1,0 +1,9 @@
+/* css styles */
+.columns {
+    gap: 40px;
+}
+
+.columns img {
+    max-height: 300px;
+    object-fit: cover;
+}
