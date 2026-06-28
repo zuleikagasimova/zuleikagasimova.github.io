@@ -3,6 +3,7 @@ project:
   output-dir: docs
 website:
   title: "Zuleika Gasimova"
+  description: "PhD student in cognitive psychology at the University of Saskatchewan researching metacognition and problem-solving"
   navbar:
     background: light
     left:
@@ -19,6 +20,8 @@ format:
       - zephyr
     css: styles.css
     toc: true
-
+include-in-header:
+      text: |
+        <meta name="google-site-verification" content="kObXxC9ZwZaBADiFFfqiK0g89P22ZJHBInBEWD6sILM" />
 editor: visual
 
