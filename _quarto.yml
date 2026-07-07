@@ -9,9 +9,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
+      - href: cv.qmd
         text: CV
-      - href: conference.qmd
+      - href: presented-works.qmd
         text: Presented Works
 
 format:
